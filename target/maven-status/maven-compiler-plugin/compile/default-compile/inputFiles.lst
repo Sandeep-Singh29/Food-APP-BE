@@ -1,0 +1,9 @@
+/Users/envotionsmacbookpro/Documents/Notes/Food-Delivery-API/foodies-api/src/main/java/com/food/delivery/FoodiesApiApplication.java
+/Users/envotionsmacbookpro/Documents/Notes/Food-Delivery-API/foodies-api/src/main/java/com/food/delivery/config/AwsConfig.java
+/Users/envotionsmacbookpro/Documents/Notes/Food-Delivery-API/foodies-api/src/main/java/com/food/delivery/controller/FoodController.java
+/Users/envotionsmacbookpro/Documents/Notes/Food-Delivery-API/foodies-api/src/main/java/com/food/delivery/entity/FoodEntity.java
+/Users/envotionsmacbookpro/Documents/Notes/Food-Delivery-API/foodies-api/src/main/java/com/food/delivery/repository/FoodRepository.java
+/Users/envotionsmacbookpro/Documents/Notes/Food-Delivery-API/foodies-api/src/main/java/com/food/delivery/request/FoodRequest.java
+/Users/envotionsmacbookpro/Documents/Notes/Food-Delivery-API/foodies-api/src/main/java/com/food/delivery/response/FoodResponse.java
+/Users/envotionsmacbookpro/Documents/Notes/Food-Delivery-API/foodies-api/src/main/java/com/food/delivery/service/FoodService.java
+/Users/envotionsmacbookpro/Documents/Notes/Food-Delivery-API/foodies-api/src/main/java/com/food/delivery/service/impl/FoodServiceImpl.java

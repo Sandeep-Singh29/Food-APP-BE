@@ -1,0 +1,11 @@
+com/food/delivery/response/FoodResponse.class
+com/food/delivery/config/AwsConfig.class
+com/food/delivery/entity/FoodEntity$FoodEntityBuilder.class
+com/food/delivery/FoodiesApiApplication.class
+com/food/delivery/entity/FoodEntity.class
+com/food/delivery/controller/FoodController.class
+com/food/delivery/response/FoodResponse$FoodResponseBuilder.class
+com/food/delivery/service/impl/FoodServiceImpl.class
+com/food/delivery/service/FoodService.class
+com/food/delivery/request/FoodRequest.class
+com/food/delivery/repository/FoodRepository.class
