@@ -24,6 +24,7 @@ import java.util.List;
 @RequestMapping("/api/foods")
 @AllArgsConstructor
 @Slf4j
+@CrossOrigin("*")
 public class FoodController {
 
     private final FoodService foodService;
